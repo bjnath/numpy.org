@@ -58,10 +58,4 @@ You also can run the docker image in daemon mode and then interact with the cont
 
 ### NumPy Color Palette
 
-#FFC553 Mustard
-#4DABCF Maximum Blue
-#4D77CF Han Blue
-#FFFFFF White
-#EEEEEE Isabelline
-#6C7A89 Aurometalsaurus
-#013243 Warm Black
+![numpy_color_palette](https://user-images.githubusercontent.com/6691888/85718435-8635c880-b6bc-11ea-9c2b-d5b754e5467c.png)
